@@ -30,7 +30,7 @@ To install this project, follow these steps:
 3. Run `npm run start` to start the application
 4. Open a browser and navigate to `localhost:5000` to view the application
 
-## Screenshots
+## Screenshot of Demo
 
 ![image](https://github.com/CynthiaWeaver-Jeannine/GrubDash/assets/132491873/4964a082-325e-4a30-9386-7d16c46b5297)
 
