@@ -38,6 +38,6 @@ To install this project, follow these steps:
 [GrubDash Live Demo](https://grub-dash-frontend.vercel.app/)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/cynthiajweaver-dev)
+[LinkedIn](linkedin.com/in/cynthiajweaver-dev)
 
 
