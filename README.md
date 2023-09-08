@@ -32,12 +32,13 @@ To install this project, follow these steps:
 
 ## Screenshots
 
-![Screenshot of the GrubDash application](placeholder.png)
+![Screenshot of the GrubDash application](![image](https://github.com/CynthiaWeaver-Jeannine/GrubDash/assets/132491873/d92d4191-373b-415a-88fc-8d9e71173aba)
+)
 
 ## Live Demo
 [GrubDash Live Demo](https://grub-dash-frontend.vercel.app/)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/cynthiajweaver-dev/)
+ Cynthia Weaver [LinkedIn](https://www.linkedin.com/in/cynthiajweaver-dev/)
 
 
